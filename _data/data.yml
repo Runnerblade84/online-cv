@@ -8,19 +8,19 @@ sidebar:
 
     # Profile information
     name: Andrea De Paolis
-    tagline: Manager IT @iliad
+    tagline: #Manager IT @iliad
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: andreadepaolis@gmail.com
-    phone: +39 346 3608020
-    timezone: Europa/Roma
+    email: #andreadepaolis@gmail.com
+    phone: #+39 346 3608020
+    timezone: #Europa/Roma
     citizenship:
     website:  #do not add http://
     linkedin: adepaolis84
     xing: 
     github: Runnerblade84
-    telegram: DeppoX# add your nickname without '@' sign
+    telegram: DeppoX #add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: '@adepaolis84'
@@ -30,16 +30,16 @@ sidebar:
     pdf: 
 
     languages:
-      title: Languages
+      title: #Languages
       info:
-        - idiom: Italian
-          level: Native
+        - idiom: #Italian
+          level: #Native
 
-        - idiom: English
-          level: Professional
+        - idiom: #English
+          level: #Professional
 
-        - idiom: French
-          level: School
+        - idiom: #French
+          level: #School
 
     interests:
       title: Interests
